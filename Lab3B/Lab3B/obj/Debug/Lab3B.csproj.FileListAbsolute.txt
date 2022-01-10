@@ -1,0 +1,21 @@
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\bin\Debug\Lab3B.exe.config
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.Form1.resources
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.exe
+G:\Year Two\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.pdb
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\bin\Debug\Lab3B.exe.config
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\bin\Debug\Lab3B.exe
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\bin\Debug\Lab3B.pdb
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.AssemblyReference.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.SuggestedBindingRedirects.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.Form1.resources
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.Properties.Resources.resources
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.GenerateResource.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.csproj.CoreCompileInputs.cache
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.exe
+F:\Year Two\Semester One\Programming In .Net\Lab Assignments\Lab Assignment Three\Lab3B\Lab3B\obj\Debug\Lab3B.pdb
